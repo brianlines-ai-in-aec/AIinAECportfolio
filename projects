@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects & Assignments | AI in the AEC Industry</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html">AI in the <span>AEC</span> Industry</a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+          <li><a href="news.html">AI in the AEC News</a></li>
+          <li><a href="projects.html" aria-current="page">Projects &amp; Assignments</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <span class="eyebrow">Projects &amp; Assignments</span>
+          <h1>How I Used AI During the Semester</h1>
+          <p>
+            This page showcases my course work, assignments, prompts, scenarios, and deliverables related to AI in the AEC industry.
+            Each project can document the problem, the AI workflow, the output, and my reflection on what the process revealed.
+          </p>
+          <div class="hero-actions">
+            <a class="btn" href="#project-gallery">Browse Projects</a>
+            <a class="btn-outline" href="news.html">See News Commentary</a>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <div class="visual-orb" aria-hidden="true">
+            <div class="visual-panel">
+              <h3>Suggested project structure</h3>
+              <div class="visual-lines">
+                <div class="visual-line"></div>
+                <div class="visual-line"></div>
+                <div class="visual-line"></div>
+              </div>
+              <p style="margin-top: 1rem; color: #5c5c5c; font-size: 0.95rem;">
+                Problem or prompt, AI approach, output or deliverable, and your own reflection on effectiveness and limitations.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section overview">
+      <div class="container">
+        <span class="eyebrow">How This Page Works</span>
+        <h2 class="section-title">Assignments with Evidence.</h2>
+        <p class="section-intro">
+          This page is intended to do more than say that AI was used. It shows what the task was, how AI was involved,
+          and what result or deliverable came out of the process.
+        </p>
+
+        <div class="overview-grid">
+          <article class="feature-card">
+            <div class="feature-icon">01</div>
+            <h3>The Scenario</h3>
+            <p>
+              Briefly explain the assignment, prompt, or problem you were trying to solve.
+            </p>
+            <ul>
+              <li>Class task or project brief</li>
+              <li>Goal or challenge</li>
+              <li>Context for the reader</li>
+            </ul>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">02</div>
+            <h3>The AI Workflow</h3>
+            <p>
+              Describe how you used AI, including the type of prompt, the tool, and the workflow you followed.
+            </p>
+            <ul>
+              <li>Prompt strategy</li>
+              <li>Tool or platform used</li>
+              <li>Editing or revision process</li>
+            </ul>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">03</div>
+            <h3>The Deliverable</h3>
+            <p>
+              Show what the final output was and what you learned from the process.
+            </p>
+            <ul>
+              <li>Final result</li>
+              <li>Strengths and weaknesses</li>
+              <li>Your reflection</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section projects" id="project-gallery">
+      <div class="container">
+        <span class="eyebrow">Project Gallery</span>
+        <h2 class="section-title">Semester Work and Outputs.</h2>
+        <p class="section-intro">
+          Replace these sample project cards with your actual assignments, screenshots, files, or project summaries.
+        </p>
+
+        <div class="projects-grid">
+          <article class="project-card">
+            <div class="project-visual">
+              <span class="project-label">Project 01</span>
+            </div>
+            <div class="project-body">
+              <h3>Prompt Engineering for an AEC Task</h3>
+              <div class="project-meta">
+                <span>Prompting</span>
+                <span>Workflow</span>
+                <span>Reflection</span>
+              </div>
+              <p>
+                Document an assignment where you developed and refined prompts to produce a stronger AI response for an AEC-related problem.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-visual">
+              <span class="project-label">Project 02</span>
+            </div>
+            <div class="project-body">
+              <h3>AI-Assisted Research Summary</h3>
+              <div class="project-meta">
+                <span>Research</span>
+                <span>Summarization</span>
+                <span>Analysis</span>
+              </div>
+              <p>
+                Show how AI helped you review information, synthesize content, or generate a draft related to an AEC topic.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-visual">
+              <span class="project-label">Project 03</span>
+            </div>
+            <div class="project-body">
+              <h3>Visual or Written Deliverable</h3>
+              <div class="project-meta">
+                <span>Output</span>
+                <span>Deliverable</span>
+                <span>Examples</span>
+              </div>
+              <p>
+                Use this card for a final product such as a report, presentation, image, summary, workflow diagram, or portfolio artifact.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-visual">
+              <span class="project-label">Project 04</span>
+            </div>
+            <div class="project-body">
+              <h3>Scenario-Based Problem Solving</h3>
+              <div class="project-meta">
+                <span>Scenario</span>
+                <span>Decision-Making</span>
+                <span>AEC</span>
+              </div>
+              <p>
+                Present a course scenario where you used AI to explore options, organize ideas, or develop a response to a practical AEC issue.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-visual">
+              <span class="project-label">Project 05</span>
+            </div>
+            <div class="project-body">
+              <h3>Iterative Revision with AI</h3>
+              <div class="project-meta">
+                <span>Revision</span>
+                <span>Editing</span>
+                <span>Improvement</span>
+              </div>
+              <p>
+                Highlight a project where the value of AI came from multiple rounds of revision, comparison, and refinement.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-visual">
+              <span class="project-label">Project 06</span>
+            </div>
+            <div class="project-body">
+              <h3>Final Reflection on AI in AEC</h3>
+              <div class="project-meta">
+                <span>Reflection</span>
+                <span>Learning</span>
+                <span>Semester</span>
+              </div>
+              <p>
+                Use this card for a closing assignment or reflection that explains what you learned about AI’s role in the AEC industry.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section story">
+      <div class="container story-grid">
+        <div class="story-copy">
+          <span class="eyebrow">My Approach</span>
+          <h2 class="section-title">Using AI with Intention.</h2>
+          <p>
+            One of the main goals of this portfolio is to show that using AI effectively is not just about generating content quickly.
+            It involves defining the task clearly, writing useful prompts, evaluating the response, revising the output, and deciding
+            where human judgment remains essential.
+          </p>
+          <p>
+            Across these assignments, I aimed to explore not only what AI can produce, but also how it can support thinking,
+            communication, and problem-solving in the AEC context.
+          </p>
+          <ul class="story-points">
+            <li><strong>Prompt quality matters:</strong> better prompts led to more useful and more targeted outputs.</li>
+            <li><strong>Review matters:</strong> AI-generated results still required interpretation, editing, and judgment.</li>
+            <li><strong>Application matters:</strong> the most valuable uses were the ones tied to real tasks and real decisions.</li>
+          </ul>
+        </div>
+
+        <div class="portrait-card">
+          <div class="portrait-content">
+            <h3>Project visuals go here</h3>
+            <p>
+              Replace this placeholder with screenshots, diagrams, deliverable previews, or another visual related to your work.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section cta" id="contact">
+      <div class="container">
+        <div class="cta-wrap">
+          <div class="cta-copy">
+            <span class="eyebrow">Continue Exploring</span>
+            <h2>See the Bigger Picture.</h2>
+            <p>
+              Visit the news page to see outside sources that informed my thinking, or return to the about page for more context
+              on my goals and perspective.
+            </p>
+          </div>
+
+          <div class="cta-panel">
+            <h3>Quick links</h3>
+            <ul>
+              <li><a href="news.html">AI in the AEC News</a></li>
+              <li><a href="about.html">About Me</a></li>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="mailto:youremail@example.com">Email Contact</a></li>
+            </ul>
+            <a class="btn" href="news.html">Read News Commentary</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="footer-brand">Projects.</div>
+      </div>
+
+      <div class="footer-col">
+        <h4>Pages</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+          <li><a href="news.html">AI in the AEC News</a></li>
+          <li><a href="projects.html">Projects &amp; Assignments</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Notes</h4>
+        <ul>
+          <li>Replace sample cards with real assignments</li>
+          <li>Add screenshots, files, or links to outputs</li>
+          <li>Customize each project summary</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-note">
+      © 2026 AI in the AEC Industry Portfolio.
+    </div>
+  </footer>
+</body>
+</html>
