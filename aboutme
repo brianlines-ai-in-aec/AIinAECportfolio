@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Me | AI in the AEC Industry</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html">AI in the <span>AEC</span> Industry</a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html" aria-current="page">About Me</a></li>
+          <li><a href="news.html">AI in the AEC News</a></li>
+          <li><a href="projects.html">Projects &amp; Assignments</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <span class="eyebrow">About Me</span>
+          <h1>Who I Am and Why This Work Matters</h1>
+          <p>
+            This page introduces my background, my interest in artificial intelligence, and the reasons I wanted to explore
+            how AI is shaping the architecture, engineering, and construction industry. This portfolio reflects my semester-long
+            work investigating how AI can support research, communication, creativity, and practical problem-solving in AEC.
+          </p>
+          <div class="hero-actions">
+            <a class="btn" href="projects.html">See My Work</a>
+            <a class="btn-outline" href="news.html">Read My News Commentary</a>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <div class="visual-orb" aria-hidden="true">
+            <div class="visual-panel">
+              <h3>About this page</h3>
+              <div class="visual-lines">
+                <div class="visual-line"></div>
+                <div class="visual-line"></div>
+                <div class="visual-line"></div>
+              </div>
+              <p style="margin-top: 1rem; color: #5c5c5c; font-size: 0.95rem;">
+                Use this page to share your story, academic interests, professional goals, and your perspective
+                on AI in the AEC industry.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section overview">
+      <div class="container">
+        <span class="eyebrow">Professional Snapshot</span>
+        <h2 class="section-title">My Focus Areas.</h2>
+        <p class="section-intro">
+          These sections give visitors a quick understanding of who I am, what I care about, and how this website fits into my academic and professional interests.
+        </p>
+
+        <div class="overview-grid">
+          <article class="feature-card">
+            <div class="feature-icon">01</div>
+            <h3>Background</h3>
+            <p>
+              Add a short introduction about yourself here. This can include your major, academic concentration,
+              professional interests, and any experience that shaped your interest in AEC and emerging technologies.
+            </p>
+            <ul>
+              <li>Academic background</li>
+              <li>Career interests</li>
+              <li>Why AEC is important to you</li>
+            </ul>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">02</div>
+            <h3>Interest in AI</h3>
+            <p>
+              Explain what drew you to AI and why you believe it is becoming important in the AEC industry.
+              This is a good place to mention efficiency, creativity, decision support, communication, or innovation.
+            </p>
+            <ul>
+              <li>Why AI caught your attention</li>
+              <li>How AI connects to AEC practice</li>
+              <li>What questions interest you most</li>
+            </ul>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">03</div>
+            <h3>Semester Goals</h3>
+            <p>
+              Describe what you hoped to learn during the semester and what types of skills or perspectives
+              you wanted to develop through this course.
+            </p>
+            <ul>
+              <li>Learning goals</li>
+              <li>Skills you wanted to build</li>
+              <li>How this portfolio documents that growth</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section story">
+      <div class="container story-grid">
+        <div class="story-copy">
+          <span class="eyebrow">My Perspective</span>
+          <h2 class="section-title">Why AI in AEC Interests Me.</h2>
+          <p>
+            The AEC industry is full of complex problems that depend on communication, coordination, technical knowledge,
+            and judgment. AI has the potential to help with many of these challenges, but it also raises important questions
+            about trust, accuracy, responsibility, and implementation.
+          </p>
+          <p>
+            Through this course, I wanted to better understand both the opportunities and the limitations of AI.
+            My goal was not only to test tools, but also to think critically about when AI is useful, when human review is essential,
+            and how these technologies might realistically fit into professional AEC workflows.
+          </p>
+          <ul class="story-points">
+            <li><strong>Critical thinking:</strong> using AI thoughtfully rather than treating it as automatic or perfect.</li>
+            <li><strong>Application:</strong> exploring how prompts, summaries, research, and deliverables can support real work.</li>
+            <li><strong>Reflection:</strong> documenting what worked well, what did not, and what still requires human expertise.</li>
+          </ul>
+        </div>
+
+        <div class="portrait-card">
+          <div class="portrait-content">
+            <h3>Replace with your image</h3>
+            <p>
+              This is a placeholder area for a photo, portrait, or visual that represents you and your work.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section overview">
+      <div class="container">
+        <span class="eyebrow">What Visitors Will Find</span>
+        <h2 class="section-title">What This Portfolio Shows.</h2>
+        <p class="section-intro">
+          This portfolio is meant to show both the content I created and the way I approached AI during the semester.
+        </p>
+
+        <div class="overview-grid">
+          <article class="feature-card">
+            <div class="feature-icon">A</div>
+            <h3>Curated News</h3>
+            <p>
+              I collected articles, podcasts, and videos related to AI in AEC and added my own commentary about why each item matters.
+            </p>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">B</div>
+            <h3>Projects &amp; Deliverables</h3>
+            <p>
+              I documented my assignments and examples of how I used AI to respond to prompts, scenarios, and course activities.
+            </p>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon">C</div>
+            <h3>Growth Over Time</h3>
+            <p>
+              Together, these pages show how my understanding of AI in the AEC industry developed across the semester.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section cta" id="contact">
+      <div class="container">
+        <div class="cta-wrap">
+          <div class="cta-copy">
+            <span class="eyebrow">Connect</span>
+            <h2>Explore the Rest of the Site.</h2>
+            <p>
+              Continue to the news page to see curated media and commentary, or visit the projects page to review assignments,
+              prompts, workflows, and deliverables from the semester.
+            </p>
+          </div>
+
+          <div class="cta-panel">
+            <h3>Suggested links</h3>
+            <ul>
+              <li><a href="news.html">AI in the AEC News</a></li>
+              <li><a href="projects.html">Projects &amp; Assignments</a></li>
+              <li><a href="index.html">Return to Home</a></li>
+              <li><a href="mailto:youremail@example.com">Email Contact</a></li>
+            </ul>
+            <a class="btn" href="projects.html">View Projects</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="footer-brand">About Me.</div>
+      </div>
+
+      <div class="footer-col">
+        <h4>Pages</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+          <li><a href="news.html">AI in the AEC News</a></li>
+          <li><a href="projects.html">Projects &amp; Assignments</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Notes</h4>
+        <ul>
+          <li>Replace placeholder biography text</li>
+          <li>Add your photo or professional image</li>
+          <li>Update the contact email and links</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-note">
+      © 2026 AI in the AEC Industry Portfolio.
+    </div>
+  </footer>
+</body>
+</html>
